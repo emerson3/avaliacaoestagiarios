@@ -7,7 +7,7 @@ Celular: (83) 9 9676-5975
 Data de Nascimento: 05/05/2001
 Objetivo na área de TI: CODARRRRRRRRRR
 email: guxttavo.dev@gmail.com
-=======
+==========
 Nome: Guilherme
 Sobrenome: Neves
 Celular: (83) 9 98612988
@@ -42,4 +42,11 @@ Celular: (83) 996073914
 Data de Nascimento: 24/02/1996
 Objetivo na área de TI: Desenvolvedora
 email: andressasabrantes@gmail.com
+=======
+Nome: Rafael 
+Sobrenome: galvao
+Celular: (83)987900568
+Data de Nascimento: 22/07/1999
+Objetivo na área de TI: trabalhar todos os dias com programacao e resolver problemas
+email: rafaelgalvaolm.dev@gmail.com
 --------------------------------------------------------------------------------------------------
