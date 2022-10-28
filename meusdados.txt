@@ -2,7 +2,7 @@
 Lista de Estágiarios:
 
 Nome: Andreza
-Sobrenome: Abrantes
+Sobrenome: dos Santos Abrantes
 Celular: (83) 99620-0919
 Data de Nascimento: 24/02/1996
 Objetivo na área de TI: Me desenvolver o suficiente para liderar equipes em grandes projetos  
