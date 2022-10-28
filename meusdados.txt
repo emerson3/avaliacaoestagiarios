@@ -1,10 +1,10 @@
 -----------------------------------------------SMN-----------------------------------------------
 Lista de Estágiarios:
 
-Nome: Digite seu nome
-Sobrenome: Digite seu sobrenome
-Celular: Digite seu celular com o (ddd)
-Data de Nascimento: digite a data de nascimento xx/xx/xxxx
-Objetivo na área de TI: descreva seu objetivo
-email: Digite seu email
+Nome: Andressa
+Sobrenome: dos Santos Abrantes
+Celular: (83) 996073914
+Data de Nascimento: 24/02/1996
+Objetivo na área de TI: Desenvolvedora
+email: andressasabrantes@gmail.com
 --------------------------------------------------------------------------------------------------
