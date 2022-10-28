@@ -1,10 +1,10 @@
 -----------------------------------------------SMN-----------------------------------------------
 Lista de Estágiarios:
 
-Nome: Guilherme
-Sobrenome: Neves
-Celular: (83) 9 98612988
-Data de Nascimento: 20/03/2002
-Objetivo na área de TI: ser um analista brabo
-email: nmguilherme@hotmail.com
+Nome: Rafael 
+Sobrenome: galvao
+Celular: (83)987900568
+Data de Nascimento: 22/07/1999
+Objetivo na área de TI: derrubar o guigas
+email: rafaelgalvaolm.dev@gmail.com
 --------------------------------------------------------------------------------------------------
