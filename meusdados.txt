@@ -1,8 +1,6 @@
 -----------------------------------------------SMN-----------------------------------------------
 Lista de Estágiarios:
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 Nome: Gustavo
 Sobrenome: Barbosa
 Celular: (83) 9 9676-5975
@@ -38,4 +36,10 @@ Data de Nascimento: 18/01/1989
 Objetivo na área de TI: Analista BI
 email: annalaurytha.c@gmail.com
 =======
+Nome: Andressa
+Sobrenome: dos Santos Abrantes
+Celular: (83) 996073914
+Data de Nascimento: 24/02/1996
+Objetivo na área de TI: Desenvolvedora
+email: andressasabrantes@gmail.com
 --------------------------------------------------------------------------------------------------
