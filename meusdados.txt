@@ -1,6 +1,7 @@
 -----------------------------------------------SMN-----------------------------------------------
 Lista de Estágiarios:
 
+<<<<<<< HEAD
 Nome: Gustavo
 Sobrenome: Barbosa
 Celular: (83) 9 9676-5975
@@ -42,4 +43,12 @@ Celular: (83) 996073914
 Data de Nascimento: 24/02/1996
 Objetivo na área de TI: Desenvolvedora
 email: andressasabrantes@gmail.com
+=======
+Nome: Lucas 	
+Sobrenome: Alves Nunes da Costa
+Celular: 81989086952
+Data de Nascimento: 18/03/1994
+Objetivo na área de TI: Analista de Negócio
+email: lucasanc14@gmail.com
+>>>>>>> lucas
 --------------------------------------------------------------------------------------------------
