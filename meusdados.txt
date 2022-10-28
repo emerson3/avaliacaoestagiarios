@@ -1,10 +1,10 @@
 -----------------------------------------------SMN-----------------------------------------------
 Lista de Estágiarios:
 
-Nome: Digite seu nome
-Sobrenome: Digite seu sobrenome
-Celular: Digite seu celular com o (ddd)
-Data de Nascimento: digite a data de nascimento xx/xx/xxxx
-Objetivo na área de TI: descreva seu objetivo
-email: Digite seu email
+Nome: Lívia
+Sobrenome: da Rocha Lima
+Celular: (083)99982-5868
+Data de Nascimento: 06/11/1980
+Objetivo na área de TI: Gostaria de crescer profissionalmente na área de TI e ser reconhecida pelo meu trabalho.
+email: liv.rocha@outlook.com
 --------------------------------------------------------------------------------------------------
