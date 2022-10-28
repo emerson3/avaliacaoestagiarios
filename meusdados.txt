@@ -2,6 +2,7 @@
 Lista de Estágiarios:
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Nome: Gustavo
 Sobrenome: Barbosa
 Celular: (83) 9 9676-5975
@@ -16,4 +17,12 @@ Data de Nascimento: 20/03/2002
 Objetivo na área de TI: ser um analista brabo
 email: nmguilherme@hotmail.com
 >>>>>>> f745b69e09ebbeaf7e4a63032f5a54c0f560229f
+=======
+Nome: José Gabriel
+Sobrenome: Gouveia dos Santos Silva
+Celular: (83) 98166-4646
+Data de Nascimento: 15/02/1999
+Objetivo na área de TI: Adquirir conhecimento, crescer profissionalmente e buscar sempre o melhor de mim.
+email: bielsantos30@hotmail.com
+>>>>>>> gabriel
 --------------------------------------------------------------------------------------------------
