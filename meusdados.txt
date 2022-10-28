@@ -5,6 +5,6 @@ Nome: Rafael
 Sobrenome: galvao
 Celular: (83)987900568
 Data de Nascimento: 22/07/1999
-Objetivo na área de TI: derrubar o guigas
+Objetivo na área de TI: trabalhar todos os dias com programacao e resolver problemas
 email: rafaelgalvaolm.dev@gmail.com
 --------------------------------------------------------------------------------------------------
