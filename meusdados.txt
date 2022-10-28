@@ -1,10 +1,19 @@
 -----------------------------------------------SMN-----------------------------------------------
 Lista de Estágiarios:
 
+<<<<<<< HEAD
 Nome: Gustavo
 Sobrenome: Barbosa
 Celular: (83) 9 9676-5975
 Data de Nascimento: 05/05/2001
 Objetivo na área de TI: CODARRRRRRRRRR
 email: guxttavo.dev@gmail.com
+=======
+Nome: Guilherme
+Sobrenome: Neves
+Celular: (83) 9 98612988
+Data de Nascimento: 20/03/2002
+Objetivo na área de TI: ser um analista brabo
+email: nmguilherme@hotmail.com
+>>>>>>> f745b69e09ebbeaf7e4a63032f5a54c0f560229f
 --------------------------------------------------------------------------------------------------
