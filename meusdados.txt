@@ -1,10 +1,10 @@
 -----------------------------------------------SMN-----------------------------------------------
 Lista de Estágiarios:
 
-Nome: Digite seu nome
-Sobrenome: Digite seu sobrenome
-Celular: Digite seu celular com o (ddd)
-Data de Nascimento: digite a data de nascimento xx/xx/xxxx
-Objetivo na área de TI: descreva seu objetivo
-email: Digite seu email
+Nome: Lucas 	
+Sobrenome: Alves Nunes da Costa
+Celular: 81989086952
+Data de Nascimento: 18/03/1994
+Objetivo na área de TI: Analista de Negócio
+email: lucasanc14@gmail.com
 --------------------------------------------------------------------------------------------------
