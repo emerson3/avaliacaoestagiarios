@@ -1,14 +1,13 @@
 -----------------------------------------------SMN-----------------------------------------------
 Lista de Estágiarios:
 
-<<<<<<< HEAD
 Nome: Gustavo
 Sobrenome: Barbosa
 Celular: (83) 9 9676-5975
 Data de Nascimento: 05/05/2001
 Objetivo na área de TI: CODARRRRRRRRRR
 email: guxttavo.dev@gmail.com
-=======
+==========
 Nome: Guilherme
 Sobrenome: Neves
 Celular: (83) 9 98612988
@@ -50,5 +49,19 @@ Celular: 81989086952
 Data de Nascimento: 18/03/1994
 Objetivo na área de TI: Analista de Negócio
 email: lucasanc14@gmail.com
->>>>>>> lucas
+=======
+Nome: Rafael 
+Sobrenome: galvao
+Celular: (83)987900568
+Data de Nascimento: 22/07/1999
+Objetivo na área de TI: trabalhar todos os dias com programacao e resolver problemas
+email: rafaelgalvaolm.dev@gmail.com
+=======
+Nome: Lívia
+Sobrenome: da Rocha Lima
+Celular: (083)99982-5868
+Data de Nascimento: 06/11/1980
+Objetivo na área de TI: Crescer profissionalmente na área de TI e ser reconhecida pelo meu trabalho.
+email: liv.rocha@outlook.com
+
 --------------------------------------------------------------------------------------------------
